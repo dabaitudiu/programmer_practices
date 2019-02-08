@@ -9,8 +9,10 @@ algorithm practices
 5. 打印两个有序链表的公共部分. [Link](https://github.com/dabaitudiu/programmer_practices/blob/master/05_LLCommonParts/description.md)
 6. 删除单双链表倒数第K个Node. [Link](https://github.com/dabaitudiu/programmer_practices/blob/master/06_Delete_Last_Kth/description.md)
 
-### 动态规划：
-1. [Link](https://github.com/dabaitudiu/programmer_practices/blob/master/DP)
+### DP：
+1. [牛生牛](https://github.com/dabaitudiu/programmer_practices/blob/master/DP/HDU_2018_%E7%89%9B%E7%94%9F%E7%89%9B%E9%97%AE%E9%A2%98.c)
+2. [蜜蜂寻路](https://github.com/dabaitudiu/programmer_practices/blob/master/DP/HDU_2044_%E5%B0%8F%E8%9C%9C%E8%9C%82%E5%AF%BB%E8%B7%AF.c)
+3. [数塔](https://github.com/dabaitudiu/programmer_practices/blob/master/DP/HDU_2084_%E6%95%B0%E5%A1%94.c%E8%B7%AF.c)
 
 ### 2018_xz
 1. [最大乘积](https://github.com/dabaitudiu/programmer_practices/blob/master/2018_xz/1_最大乘积.md)
