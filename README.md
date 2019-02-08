@@ -16,6 +16,7 @@ algorithm practices
 
 ### 2018_xz
 1. [最大乘积](https://github.com/dabaitudiu/programmer_practices/blob/master/2018_xz/1_最大乘积.md)
+2. [大整数相乘](https://github.com/dabaitudiu/programmer_practices/blob/master/2018_xz/2_大整数相乘.md)
 
 ### LeetCode
 1. [Two_Sum](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/1_Two_Sum.java)
