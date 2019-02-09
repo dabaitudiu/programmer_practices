@@ -11,6 +11,7 @@ For example, this binary tree [1,2,2,3,4,4,3] is symmetric:
 ```
 
 But the following [1,2,2,null,3,null,3] is not:
+```
     1
    / \
   2   2
