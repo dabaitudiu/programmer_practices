@@ -24,6 +24,7 @@ algorithm practices
 6. [操作序列](https://github.com/dabaitudiu/programmer_practices/blob/master/2018_xz/6_操作序列.md)
 7. [水果与房子](https://github.com/dabaitudiu/programmer_practices/blob/master/2018_xz/7_水果与房子.md)
 8. [堆棋子](https://github.com/dabaitudiu/programmer_practices/blob/master/2018_xz/8_堆棋子.md)
+9. [疯狂队列](https://github.com/dabaitudiu/programmer_practices/blob/master/2018_xz/9_疯狂队列.md)
 
 ### LeetCode
 1. [Two_Sum](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/1_Two_Sum.java)
