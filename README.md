@@ -28,6 +28,7 @@ algorithm practices
 10. [循环数比较](https://github.com/dabaitudiu/programmer_practices/blob/master/2018_xz/10_循环数比较.md)
 11. [DNA序列](https://github.com/dabaitudiu/programmer_practices/blob/master/2018_xz/11_DNA序列.md)
 12. [猜判断题](https://github.com/dabaitudiu/programmer_practices/blob/master/2018_xz/12_猜判断题.md)
+13. [删除重复字符](https://github.com/dabaitudiu/programmer_practices/blob/master/2018_xz/13_删除重复字符.md)
 
 ### LeetCode
 1. [Two_Sum](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/1_Two_Sum.java)
@@ -39,3 +40,4 @@ algorithm practices
 7. [8_String_to_Integer](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/8_String_to_Integer.java)
 8. [10_Water_container](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/10_Water_container.md)
 9. [101_Symmetric_Tree](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/101_Symmetric_Tree.md)
+14. [Longest_Common_Prefix](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/14_最长前序.md)
