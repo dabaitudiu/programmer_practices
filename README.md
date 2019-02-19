@@ -29,6 +29,7 @@ algorithm practices
 11. [DNA序列](https://github.com/dabaitudiu/programmer_practices/blob/master/2018_xz/11_DNA序列.md)
 12. [猜判断题](https://github.com/dabaitudiu/programmer_practices/blob/master/2018_xz/12_猜判断题.md)
 13. [删除重复字符](https://github.com/dabaitudiu/programmer_practices/blob/master/2018_xz/13_删除重复字符.md)
+14. [回文素数](https://github.com/dabaitudiu/programmer_practices/blob/master/2018_xz/14_回文素数.md)
 
 ### LeetCode
 1. [Two_Sum](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/1_Two_Sum.java)
