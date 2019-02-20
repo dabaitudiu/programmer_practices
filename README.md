@@ -41,4 +41,6 @@ algorithm practices
 7. [8_String_to_Integer](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/8_String_to_Integer.java)
 8. [10_Water_container](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/10_Water_container.md)
 9. [101_Symmetric_Tree](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/101_Symmetric_Tree.md)
+12. [12_Integer_to_Roman](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/12_IntegerToRoman.md)
+13. [Roman_To_Integer](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/13_RomanToInteger.md)
 14. [Longest_Common_Prefix](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/14_最长前序.md)
