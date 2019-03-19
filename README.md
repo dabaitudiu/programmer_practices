@@ -15,6 +15,9 @@ algorithm practices
 2. [蜜蜂寻路](https://github.com/dabaitudiu/programmer_practices/blob/master/DP/HDU_2044_%E5%B0%8F%E8%9C%9C%E8%9C%82%E5%AF%BB%E8%B7%AF.c)
 3. [数塔](https://github.com/dabaitudiu/programmer_practices/blob/master/DP/HDU_2084_%E6%95%B0%E5%A1%94.c%E8%B7%AF.c)
 
+### jzOffer:
+1. [二维数组中的查找](https://github.com/dabaitudiu/programmer_practices/blob/master/jzOffer/1_二维数组中的查找.md)
+
 ### 2018_xz
 1. [最大乘积](https://github.com/dabaitudiu/programmer_practices/blob/master/2018_xz/1_最大乘积.md)
 2. [大整数相乘](https://github.com/dabaitudiu/programmer_practices/blob/master/2018_xz/2_大整数相乘.md)
@@ -30,6 +33,9 @@ algorithm practices
 12. [猜判断题](https://github.com/dabaitudiu/programmer_practices/blob/master/2018_xz/12_猜判断题.md)
 13. [删除重复字符](https://github.com/dabaitudiu/programmer_practices/blob/master/2018_xz/13_删除重复字符.md)
 14. [回文素数](https://github.com/dabaitudiu/programmer_practices/blob/master/2018_xz/14_回文素数.md)
+15. [字符串价值](https://github.com/dabaitudiu/programmer_practices/blob/master/2018_xz/15_字符串价值.md)
+16. [拼凑正方形](https://github.com/dabaitudiu/programmer_practices/blob/master/2018_xz/16_拼凑正方形.md)
+17. [区间表达](https://github.com/dabaitudiu/programmer_practices/blob/master/2018_xz/17_区间表达.md)
 
 ### LeetCode
 1. [Two_Sum](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/1_Two_Sum.java)
