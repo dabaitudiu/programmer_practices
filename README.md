@@ -50,3 +50,17 @@ algorithm practices
 12. [12_Integer_to_Roman](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/12_IntegerToRoman.md)
 13. [Roman_To_Integer](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/13_RomanToInteger.md)
 14. [Longest_Common_Prefix](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/14_最长前序.md)
+
+**2019/5/7:**
+```
+18. 4Sum
+19. Remove Nth Node From End of List
+20. Valid Parentheses
+21. Merge Two Sorted Lists
+22. Generate Parentheses
+```
+- 18. 3 sum 扩展版， 外层多套一个循环即可。注意判断重复及细节优化
+- 19. 细节：nodelist前插入一个dummy node. 删除倒数第n 等于正数查到len - n
+- 20. 用stack 最后stack应该是空的
+- 21. 遍历直到二list之一为空 
+- 22. 递归解决 每次传递四个变量：list, string, rightNeed, leftRest
