@@ -59,8 +59,31 @@ algorithm practices
 21. Merge Two Sorted Lists
 22. Generate Parentheses
 ```
-- 18. 3 sum 扩展版， 外层多套一个循环即可。注意判断重复及细节优化
-- 19. 细节：nodelist前插入一个dummy node. 删除倒数第n 等于正数查到len - n
-- 20. 用stack 最后stack应该是空的
-- 21. 遍历直到二list之一为空 
-- 22. 递归解决 每次传递四个变量：list, string, rightNeed, leftRest
+- 18 3 sum 扩展版， 外层多套一个循环即可。注意判断重复及细节优化
+- 19 细节：nodelist前插入一个dummy node. 删除倒数第n 等于正数查到len - n
+- 20 用stack 最后stack应该是空的
+- 21 遍历直到二list之一为空 
+- 22 递归解决 每次传递四个变量：list, string, rightNeed, leftRest
+
+**2019/5/8:**
+```
+23. Merge k Sorted Lists
+24. Swap Nodes in Pairs
+```
+- 23 归并法实现21题O(NlogN)
+- 24 链表相邻交换，while循环iterate
+
+**2019/5/9:**
+```
+25. Reverse Nodes in k-Group
+26. Remove Duplicates from Sorted Array
+27.	Remove Element    		
+28.	Implement strStr()    		
+29.	Divide Two Integers    
+```
+
+- 25 这题逆转k有个典型method，之后不断iterate
+- 26 不断抓取新元素到当前index即可，之后index++
+- 27 和上题一个思路
+- 28 【重看】答案写法很巧妙，要点是不写循环条件 内层循环是index==needle时return 结果
+- 29 【重看】 用shift operator，之后shift 除法专门有个trick 正负号用long和abs处理
