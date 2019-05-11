@@ -77,9 +77,9 @@ algorithm practices
 ```
 25. Reverse Nodes in k-Group
 26. Remove Duplicates from Sorted Array
-27.	Remove Element    		
-28.	Implement strStr()    		
-29.	Divide Two Integers    
+27. Remove Element    		
+28. Implement strStr()    		
+29. Divide Two Integers    
 ```
 
 - 25 这题逆转k有个典型method，之后不断iterate
@@ -87,3 +87,21 @@ algorithm practices
 - 27 和上题一个思路
 - 28 【重看】答案写法很巧妙，要点是不写循环条件 内层循环是index==needle时return 结果
 - 29 【重看】 用shift operator，之后shift 除法专门有个trick 正负号用long和abs处理
+
+
+**2019/5/10:**
+```
+30. [HARD] Substring with Concatenation of All Words
+```
+- 30 【重看！！！】这题做了一天，最后也只是20%左右，github答案90%多
+
+**2019/5/10:**
+```
+31. Next Permutation
+
+1.先找出最大的索引 k 满足 nums[k] < nums[k+1]，如果不存在，就翻转整个数组；
+2. 再找出另一个最大索引 l 满足 nums[l] > nums[k]；
+3. 交换 nums[l] 和 nums[k]；
+4. 最后翻转 nums[k+1:]。
+```
+- 31 这题维基百科有固定公式。中文版参考: [LeetCode_31](https://leetcode-cn.com/problems/next-permutation/solution/xia-yi-ge-pai-lie-by-powcai/)
