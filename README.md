@@ -95,7 +95,7 @@ algorithm practices
 ```
 - 30 【重看！！！】这题做了一天，最后也只是20%左右，github答案90%多
 
-**2019/5/10:**
+**2019/5/11:**
 ```
 31. Next Permutation
 
@@ -105,3 +105,9 @@ algorithm practices
 4. 最后翻转 nums[k+1:]。
 ```
 - 31 这题维基百科有固定公式。中文版参考: [LeetCode_31](https://leetcode-cn.com/problems/next-permutation/solution/xia-yi-ge-pai-lie-by-powcai/)
+
+**2019/5/11:**
+```
+32. Longest Valid Parentheses
+```
+- 32 这题两个方法 第一个:用stack 找出所有配对括号的index，之后找出最长的连续index串，这里有个trick可以省去排序使最后为O(N). 第二个方法: dp，dp[i]代表该位置作为结尾最长valid括号是多少，'(' 的dp 全为0， 之后分dp[i-1] = '(' 和 dp[i=1] = ')' 讨论。详情见这里: [32. 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/solution/zui-chang-you-xiao-gua-hao-by-powcai/)
