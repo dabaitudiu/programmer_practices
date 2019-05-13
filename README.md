@@ -115,3 +115,13 @@ algorithm practices
 - 32 这题两个方法 第一个:用stack 找出所有配对括号的index，之后找出最长的连续index串，这里有个trick可以省去排序使最后为O(N). 第二个方法: dp，dp[i]代表该位置作为结尾最长valid括号是多少，'(' 的dp 全为0， 之后分dp[i-1] = '(' 和 dp[i=1] = ')' 讨论。详情见这里: [32. 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/solution/zui-chang-you-xiao-gua-hao-by-powcai/)
 - 33 先用二分法找分割点，之后用常规二分法查找，只不过real_mid = (mid + shift) % len.
 - 34 2个思路 1. 普通二分法，之后向左右延展，速度一般。 2. 二分法找左右分界，<=(或>=)都要继续移动边界，但=target时要记录index. 最后返回的index即为边界. (最快最省空间)
+
+**2019/5/13:**
+```
+35. Search Insert Position
+36. Valid Sudoku
+37. Sudoku Solver
+```
+- 35 终于一次AC就过了。就是简单的二分查找，判断好停止位置. 小于target就在后方insert, 大于就在当前index insert.
+- 36 这题答案巧。只用一个set就可以搞定，key定义成string: "5 in row 0" 形式就行了，省时间省空间. box序号用i,j算出来
+- 37 这题的答案太强了。。链接: [LeetCode37](https://www.youtube.com/watch?v=ucugbKwjtRs). 思路是先扫面一遍，靠rows,cols,boxs，三个约束进行枚举,用递归来完成。真实体现递归之美，答案太强了。。
