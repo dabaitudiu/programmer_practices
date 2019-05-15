@@ -131,7 +131,11 @@ algorithm practices
 38. Count and Say
 39. Combination Sum
 40. Combination Sum II
+41. First Missing Positive
+42. Trapping Rain Water
 ```
-- 38. 无脑递归题
-- 39. 【重做】凑钱问题。回溯法，递归。这个题自己递归没想出来，看了答案也没完全理解好，最后还是相当于背下来的，必须重做。
-- 40. 【重做】遗憾。上一题几乎都是背完了这题还是没做出来，跟上一个题几乎一模一样，只要每次index往后移动一位就行了。唯一注意的就是去重和及时break.没啥说的了.菜是原罪
+- 38 无脑递归题
+- 39 【重做】凑钱问题。回溯法，递归。这个题自己递归没想出来，看了答案也没完全理解好，最后还是相当于背下来的，必须重做。
+- 40 【重做】遗憾。上一题几乎都是背完了这题还是没做出来，跟上一个题几乎一模一样，只要每次index往后移动一位就行了。唯一注意的就是去重和及时break。啥都不说了。菜是原罪
+- 41 这题的思想是遍历一遍nums, 把nums[i]放在i位置上，再遍历一遍nums，若i != nums[i] - 1, 说明这个数缺失。不过这个条件不完全，如果nums中有重复的数字那么就会无限循环, nums[i] != nums[nums[i - 1]] 可以忽略重复元素的情况。
+- 42 和之前做过的蓄水池题类似。每个column积累的雨水量等于左右两边较小的max_barrier_height减去当前height. 3个方法：1. dp 求出每个column's left_max & right_max; 2. stack【还没看这个】 3. 左右两个pointer,每次移动交低height的一端，不断update max_left/right height,并积累面积值。
