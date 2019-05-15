@@ -125,3 +125,13 @@ algorithm practices
 - 35 终于一次AC就过了。就是简单的二分查找，判断好停止位置. 小于target就在后方insert, 大于就在当前index insert.
 - 36 这题答案巧。只用一个set就可以搞定，key定义成string: "5 in row 0" 形式就行了，省时间省空间. box序号用i,j算出来
 - 37 这题的答案太强了。。链接: [LeetCode37](https://www.youtube.com/watch?v=ucugbKwjtRs). 思路是先扫面一遍，靠rows,cols,boxs，三个约束进行枚举,用递归来完成。真实体现递归之美，答案太强了。。
+
+**2019/5/15:**
+```
+38. Count and Say
+39. Combination Sum
+40. Combination Sum II
+```
+- 38. 无脑递归题
+- 39. 【重做】凑钱问题。回溯法，递归。这个题自己递归没想出来，看了答案也没完全理解好，最后还是相当于背下来的，必须重做。
+- 40. 【重做】遗憾。上一题几乎都是背完了这题还是没做出来，跟上一个题几乎一模一样，只要每次index往后移动一位就行了。唯一注意的就是去重和及时break.没啥说的了.菜是原罪
