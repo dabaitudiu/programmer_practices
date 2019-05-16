@@ -139,3 +139,11 @@ algorithm practices
 - 40 【重做】遗憾。上一题几乎都是背完了这题还是没做出来，跟上一个题几乎一模一样，只要每次index往后移动一位就行了。唯一注意的就是去重和及时break。啥都不说了。菜是原罪
 - 41 这题的思想是遍历一遍nums, 把nums[i]放在i位置上，再遍历一遍nums，若i != nums[i] - 1, 说明这个数缺失。不过这个条件不完全，如果nums中有重复的数字那么就会无限循环, nums[i] != nums[nums[i - 1]] 可以忽略重复元素的情况。
 - 42 和之前做过的蓄水池题类似。每个column积累的雨水量等于左右两边较小的max_barrier_height减去当前height. 3个方法：1. dp 求出每个column's left_max & right_max; 2. stack【还没看这个】 3. 左右两个pointer,每次移动交低height的一端，不断update max_left/right height,并积累面积值。
+
+**2019/5/16:**
+```
+43. Multiply Strings
+44. Wildcard Matching
+```
+- 43 校招做过的一道题 然而还是没记住。反转两个字符串, i,j位置乘积累加进arr[i + j], 之后遍历arr, 留下%10, carry进位传到arr[i+1]. 最后从末尾往前加进result的string，注意去0即可。注意额外判断0*0.
+- 44 经典题 通配符匹配 两个方法，一个贪心法，一个dp，还是算是背下来的，肯定要重做了。
