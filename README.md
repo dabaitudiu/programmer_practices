@@ -153,7 +153,17 @@ algorithm practices
 45. Jump Game II   
 46. Permutations
 47. Permutations II
+48. Rotate Image
 ```
 - 45 贪心法，每次在当前步伐范围内搜索能到达的最远的点
 - 46 回溯法经典题 - 无重复元素排列
 - 47 回溯法经典题 - 有重复元素排列
+- 48 翻转matrix. 两个方法: (1) 对于每一圈，都进行的是4个元素间的swap (2) 先上下翻转，再按对角线翻转
+
+**2019/5/18:**
+```
+49. Group Anagrams    
+50. Pow(x, n)    
+```
+- 49,50 没啥营养的两道题
+
