@@ -171,5 +171,9 @@ algorithm practices
 ```
 51. N Queens I
 52. N Queens II
+53. Maximum Subarray
+54. Spiral Matrix
 ```
 - 51 52, N皇后,回溯法两道经典题. 大体上大家都用的回溯法，时间节约在于isValid的检查。用空间换时间，recur中传递matrix记录可以使俩俩比较的O(N^2) -> O(N)
+- 53 dp 入门题，书上都看过了，看完等于白看 记住吧
+- 54 简单的螺旋打印序列，循环边界玩不好的都gg。-_-
