@@ -185,7 +185,9 @@ algorithm practices
 56. Merge Intervals    
 57. Insert Interval
 58. Length of Last Word
+59. Spiral Matrix II
 ```
 - 56 没啥新意。就是先按首项排序，然后再从前到后合并，逃脱不了O(nlogn). 值得注意的就是arrays.sort中lambda排序的写法。
 - 57 和上个题一样，巧用Math.min, Math.max可以大幅简化code。从0开始iterate， 分3段处理即可
 - 58 IQ不行，没啥说的。自己的方法还要检查空格和下一个的关系，麻烦的一匹，正解使直接从后往前check就行了。
+- 59 又是一个螺旋题，终于一条过了一个，把握好边界条件就完事儿了。
