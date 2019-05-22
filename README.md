@@ -173,7 +173,19 @@ algorithm practices
 52. N Queens II
 53. Maximum Subarray
 54. Spiral Matrix
+55. Jump Game 
 ```
 - 51 52, N皇后,回溯法两道经典题. 大体上大家都用的回溯法，时间节约在于isValid的检查。用空间换时间，recur中传递matrix记录可以使俩俩比较的O(N^2) -> O(N)
 - 53 dp 入门题，书上都看过了，看完等于白看 记住吧
 - 54 简单的螺旋打印序列，循环边界玩不好的都gg。-_-
+- 55 jump game 行吧 前一天做完今天就忘了 记住吧 咋整
+
+**2019/5/22:**
+```
+56. Merge Intervals    
+57. Insert Interval
+58. Length of Last Word
+```
+- 56 没啥新意。就是先按首项排序，然后再从前到后合并，逃脱不了O(nlogn). 值得注意的就是arrays.sort中lambda排序的写法。
+- 57 和上个题一样，巧用Math.min, Math.max可以大幅简化code。从0开始iterate， 分3段处理即可
+- 58 IQ不行，没啥说的。自己的方法还要检查空格和下一个的关系，麻烦的一匹，正解使直接从后往前check就行了。
