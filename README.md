@@ -209,7 +209,17 @@ algorithm practices
 64. Minimum Path Sum
 65. Valid Number
 ```
-- 63. 一个dp的典型题
-- 64. 一个简单的dp
-- 65. 这是一道极繁琐的题。。血雨腥风，没想到自己竟然耐着性子做出来了。。
+- 63 一个dp的典型题
+- 64 一个简单的dp
+- 65 这是一道极繁琐的题。。血雨腥风，没想到自己竟然耐着性子做出来了。。
 
+**2019/6/1:**
+惭愧啊，第一个月计划只完成了65%,继续努力吧。
+```
+66. Plus One
+67. Add Binary
+68. Text Justification
+```
+- 66 只判断digit是否等于9就行了，没什么难的
+- 67 简单二进制加法，没啥新意
+- 68 又是一个考验脑力的繁琐题，最后还是磨出来了，但是效率实在太低，35%左右 [68_My_Solution](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/68.md)
