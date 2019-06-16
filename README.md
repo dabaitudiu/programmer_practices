@@ -239,7 +239,7 @@ algorithm practices
 - 71 这题输在自己没文化了。split函数稳准狠。
 
 **2019/6/16:**
-Weekly Contest 141总结:
+[Weekly Contest 141](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/Contest141.md) 总结:
 - 第一题，最后用的是stringbuffer。第一名uwi大佬方法是复制array，然后keep两个指针
 - 第二题，我先用了个冒泡排序，同时操作两个array，之后再用hashmap检查使用次数。后来发现arrays.sort里可以规定comparator, 这样就可以把两个array copy到一个新array里，再排序新array。之后uwi用的是一个大数组检查使用次数，空间换时间吧
 - 第三题 没做出来，还以为是dp，想错了，以为只能new cell只能来源于上或者左。这题是个典型BFS，读了一遍大佬的code，赛后最后AC了。
