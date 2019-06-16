@@ -223,3 +223,23 @@ algorithm practices
 - 66 只判断digit是否等于9就行了，没什么难的
 - 67 简单二进制加法，没啥新意
 - 68 又是一个考验脑力的繁琐题，最后还是磨出来了，但是效率实在太低，35%左右 [68_My_Solution](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/68.md)
+
+**2019/6/2:**
+```
+69. Sqrt(x)
+```
+- 69 二分法或牛顿法，二分法注意边界,```mid = left + (right - mid) / 2, if (mid = x / mid)```
+
+**2019/6/12:**
+```
+70. Climbing Stairs
+71. Simplify Path
+```
+- 70 上台阶 简单的一道dp
+- 71 这题输在自己没文化了。split函数稳准狠。
+
+**2019/6/16:**
+Weekly Contest 141总结:
+- 第一题，最后用的是stringbuffer。第一名uwi大佬方法是复制array，然后keep两个指针
+- 第二题，我先用了个冒泡排序，同时操作两个array，之后再用hashmap检查使用次数。后来发现arrays.sort里可以规定comparator, 这样就可以把两个array copy到一个新array里，再排序新array。之后uwi用的是一个大数组检查使用次数，空间换时间吧
+- 第三题 没做出来，还以为是dp，想错了，以为只能new cell只能来源于上或者左。这题是个典型BFS，读了一遍大佬的code，赛后最后AC了。
