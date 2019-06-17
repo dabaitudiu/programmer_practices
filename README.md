@@ -243,3 +243,10 @@ algorithm practices
 - 第一题，最后用的是stringbuffer。第一名uwi大佬方法是复制array，然后keep两个指针
 - 第二题，我先用了个冒泡排序，同时操作两个array，之后再用hashmap检查使用次数。后来发现arrays.sort里可以规定comparator, 这样就可以把两个array copy到一个新array里，再排序新array。之后uwi用的是一个大数组检查使用次数，空间换时间吧
 - 第三题 没做出来，还以为是dp，想错了，以为只能new cell只能来源于上或者左。这题是个典型BFS，读了一遍大佬的code，赛后最后AC了。
+
+**2019/6/16:**
+```
+119. Pascal's Triangle II
+```
+- [MySolution](https://leetcode.com/problems/pascals-triangle-ii/discuss/313535/Concise-O(n)-Java-with-Pascal's-Formula)
+- 119 这题让我再度怀疑自己智商。写了半天还没写对，最后看大神方法过的。不过有两个巧妙的点，1个是靠arraylist的set函数不断更新上一行的值，最后append一个1， 第二个是利用了杨辉三角公式。不过直接用组合公式会超范围，观察后发现C(N,i) = C(N,i-1) * (row - i) / (i + 1). 另外注意下long. 
