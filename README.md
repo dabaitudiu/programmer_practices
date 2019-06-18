@@ -250,3 +250,9 @@ algorithm practices
 ```
 - [MySolution](https://leetcode.com/problems/pascals-triangle-ii/discuss/313535/Concise-O(n)-Java-with-Pascal's-Formula)
 - 119 这题让我再度怀疑自己智商。写了半天还没写对，最后看大神方法过的。不过有两个巧妙的点，1个是靠arraylist的set函数不断更新上一行的值，最后append一个1， 第二个是利用了杨辉三角公式。不过直接用组合公式会超范围，观察后发现C(N,i) = C(N,i-1) * (row - i) / (i + 1). 另外注意下long. 
+
+**2019/6/17:**
+```
+72. Edit Distance
+```
+- [72 Edit Distance]((https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/72.md)) 一道经典的dp题，最后也没完全理解. ```min(dp[i-1][j-1], dp[i-1][j], dp[i][j-1]) + 1```. 注意dp数组代表的是第几个字符，dp[0][0]代表两个空字符串，所以数组大小要注意加1,判断字符相等时也要注意index-1。
