@@ -264,6 +264,16 @@ algorithm practices
 **2019/6/19:**
 ```
 190. Reverse Bits
-[Review] 1. Two Sum
+1. Two Sum (Review) 
+75. Sort Colors
 ```
 - [190 Reverse Bits](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/190.md) 看了下大神的神级bit-wise解法，跪了。
+- 75 三指针问题，有点像quicksort
+
+**2019/6/20:**
+```
+912. Sort an Array
+920. Unique Email Addresses
+```
+- [912](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/912.md)
+- [929](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/929.md) hashmap暴力解决，没啥说的
