@@ -273,7 +273,15 @@ algorithm practices
 **2019/6/20:**
 ```
 912. Sort an Array
-920. Unique Email Addresses
+929. Unique Email Addresses
 ```
 - [912](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/912.md)
 - [929](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/929.md) hashmap暴力解决，没啥说的
+
+**2019/6/21:**
+```
+67. [Review]
+1073. Adding Two Negabinary Numbers
+```
+- [67](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/67.md) 还不如之前写的 怎么还退步了。。
+- [1073](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/1073.md) 这题我吐血了.脑子真的不好使，没啥说的了，参考一下大神的吧。
