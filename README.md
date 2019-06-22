@@ -289,8 +289,10 @@ algorithm practices
 **2019/6/22:**
 ```
 76. Minimum Window Substring
+209. Minimum Size Subarray Sum
 9, 13 Review
 83. Remove Duplicates from Sorted List
 ```
-- [76](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/76.md) code解答看了好几个小时 最后也不能保证下次一定写对。这个系列多练。
+- [76](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/76.md) code解答看了好几个小时 最后也不能保证下次一定写对。这个系列多练b吧。
+- [209](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/209.md) 76同类型。
 - [83](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/83.md) easy-peasy
