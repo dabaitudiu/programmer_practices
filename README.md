@@ -285,3 +285,12 @@ algorithm practices
 ```
 - [67](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/67.md) 还不如之前写的 怎么还退步了。。
 - [1073](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/1073.md) 这题我吐血了.脑子真的不好使，没啥说的了，参考一下大神的吧。
+
+**2019/6/22:**
+```
+76. Minimum Window Substring
+9, 13 Review
+83. Remove Duplicates from Sorted List
+```
+- [76](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/76.md) code解答看了好几个小时 最后也不能保证下次一定写对。这个系列多练。
+- [83](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/83.md) easy-peasy
