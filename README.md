@@ -296,3 +296,12 @@ algorithm practices
 - [76](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/76.md) code解答看了好几个小时 最后也不能保证下次一定写对。这个系列多练b吧。
 - [209](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/209.md) 76同类型。
 - [83](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/83.md) easy-peasy
+
+**2019/6/23:**
+weekly contest 142 血崩。第二题还傻了吧唧用sort加priority queue，后来发现一个数组就解决了，智商差距。
+
+**2019/6/24:**
+```
+203
+237
+```
