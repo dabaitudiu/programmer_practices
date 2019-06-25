@@ -309,4 +309,12 @@ weekly contest 142 血崩。第二题还傻了吧唧用sort加priority queue，�
 79. Word Search
 784. Letter Case Permutation
 ```
-- 77，78，79，784 四道回溯题。 79看大佬code过的。 79要【重做】。
+- [77](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/77.md)，[78](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/78.md)，[79](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/79.md)，[784](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/784.md) 四道回溯题。 79看大佬code过的。 79要【重做】。
+
+**2019/6/25:**
+```
+19.(review)
+206. Reverse Linked List
+234. Palindrome Linked List
+```
+- [19](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/19.md), [206](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/206.md), [234](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/234.md)
