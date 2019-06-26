@@ -230,6 +230,8 @@ algorithm practices
 ```
 - 69 二分法或牛顿法，二分法注意边界,```mid = left + (right - mid) / 2, if (mid = x / mid)```
 
+**2019/6/3-11:** 办签证，defer 断更
+
 **2019/6/12:**
 ```
 70. Climbing Stairs
@@ -244,7 +246,7 @@ algorithm practices
 - 第二题，我先用了个冒泡排序，同时操作两个array，之后再用hashmap检查使用次数。后来发现arrays.sort里可以规定comparator, 这样就可以把两个array copy到一个新array里，再排序新array。之后uwi用的是一个大数组检查使用次数，空间换时间吧
 - 第三题 没做出来，还以为是dp，想错了，以为只能new cell只能来源于上或者左。这题是个典型BFS，读了一遍大佬的code，赛后最后AC了。
 
-**2019/6/16:**
+**2019/6/17:**
 ```
 119. Pascal's Triangle II
 ```
@@ -318,3 +320,11 @@ weekly contest 142 血崩。第二题还傻了吧唧用sort加priority queue，�
 234. Palindrome Linked List
 ```
 - [19](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/19.md), [206](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/206.md), [234](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/234.md)
+
+**2019/6/25:**
+```
+876. Middle of the Linked List
+24. Swap Nodes in Pairs
+143. Reorder List
+```
+- [876](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/876.md), [24](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/24.md), [143](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/143.md)
