@@ -321,10 +321,18 @@ weekly contest 142 血崩。第二题还傻了吧唧用sort加priority queue，�
 ```
 - [19](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/19.md), [206](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/206.md), [234](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/234.md)
 
-**2019/6/25:**
+**2019/6/26:**
 ```
 876. Middle of the Linked List
 24. Swap Nodes in Pairs
 143. Reorder List
 ```
 - [876](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/876.md), [24](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/24.md), [143](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/143.md)
+
+**2019/6/27:**
+```
+160. Intersection of Two Linked Lists
+142. Linked List Cycle II
+21. (Review)
+```
+- [160](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/160.md),[142](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/142.md), [21](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/21.md)
