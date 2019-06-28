@@ -336,3 +336,12 @@ weekly contest 142 血崩。第二题还傻了吧唧用sort加priority queue，�
 21. (Review)
 ```
 - [160](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/160.md),[142](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/142.md), [21](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/21.md)
+
+**2019/6/28:**
+```
+148. Sort List
+2. (Review)
+445. Add Two Numbers II
+82. Remove Duplicates from Sorted List II
+```
+- [148](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/148.md), [2](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/2.md), [445](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/445.md), [82](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/82.md)
