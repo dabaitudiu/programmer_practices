@@ -350,9 +350,18 @@ weekly contest 142 血崩。第二题还傻了吧唧用sort加priority queue，�
 ```
 92. Reverse Linked List II
 ```
-- 92 这题一条过，爽！边界条件也考虑了！双100%!
+- [92](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/92.md) 这题一条过，爽！边界条件也考虑了！双100%!
 
 **2019/6/30:**
 ```
 weekly contest 143唉 还是只有两道
 ```
+
+**2019/7/1:**
+- gg 咋就突然7月了
+```
+104. Maximum Depth of Binary Tree
+110. Balanced Binary Tree
+543. Diameter of Binary Tree
+```
+- [104](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/104.md), [110](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/110.md), [543](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/543.md)
