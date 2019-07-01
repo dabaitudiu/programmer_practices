@@ -363,5 +363,10 @@ weekly contest 143唉 还是只有两道
 104. Maximum Depth of Binary Tree
 110. Balanced Binary Tree
 543. Diameter of Binary Tree
+80. Remove Duplicates from Sorted Array II
+81. Search in Rotated Sorted Array II
+1105. Filling Bookcase Shelves
 ```
 - [104](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/104.md), [110](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/110.md), [543](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/543.md)
+- [81](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/81.md) 唉 这题最后还是背下来的【重做】
+- [1105](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/1105.md) contest143 第三题，dp, 思路就是比较两种方案：(1) 新书直接放到新的一层h = dp[i-1] + h; (2) 新书放在新的一层，同时从上面往下拽旧书，超过width立刻break。每拽下来一本书，计算当前的总高度值: dp[i] = dp[j-1] + maxHeight(j...i), 如果更小了，就update
