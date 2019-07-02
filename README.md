@@ -370,3 +370,13 @@ weekly contest 143唉 还是只有两道
 - [104](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/104.md), [110](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/110.md), [543](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/543.md)
 - [81](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/81.md) 唉 这题最后还是背下来的【重做】
 - [1105](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/1105.md) contest143 第三题，dp, 思路就是比较两种方案：(1) 新书直接放到新的一层h = dp[i-1] + h; (2) 新书放在新的一层，同时从上面往下拽旧书，超过width立刻break。每拽下来一本书，计算当前的总高度值: dp[i] = dp[j-1] + maxHeight(j...i), 如果更小了，就update
+
+**2019/7/2:**
+```
+872. Leaf-Similar Trees
+94. Binary Tree Inorder Traversal
+897. Increasing Order Search Tree
+114. Flatten Binary Tree to Linked List
+```
+- 114 这题最后也没想太明白，背的估计明天就得忘了。【重做】
+- [872](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/872.md), [94](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/94.md), [897](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/897.md), [114](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/114.md)
