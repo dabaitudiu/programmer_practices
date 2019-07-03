@@ -380,3 +380,10 @@ weekly contest 143唉 还是只有两道
 ```
 - 114 这题最后也没想太明白，背的估计明天就得忘了。【重做】
 - [872](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/872.md), [94](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/94.md), [897](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/897.md), [114](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/114.md)
+
+**2019/7/3:**
+```
+105. Construct Binary Tree from Preorder and Inorder Traversal
+106. Construct Binary Tree from Inorder and Postorder Traversal
+```
+- [105](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/105.md), [106](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/106.md) 这俩题看了一晚上，核心思想是利用pre的head是root, post的tail是root,在inorder中定位root，分割后不断递归添加node及其left&right child. 难点是分割数组长度，注意要保证每次递归的时候传递的数组长度应该相同，把握这点就容易很多了。
