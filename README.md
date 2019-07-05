@@ -387,3 +387,14 @@ weekly contest 143唉 还是只有两道
 106. Construct Binary Tree from Inorder and Postorder Traversal
 ```
 - [105](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/105.md), [106](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/106.md) 这俩题看了一晚上，核心思想是利用pre的head是root, post的tail是root,在inorder中定位root，分割后不断递归添加node及其left&right child. 难点是分割数组长度，注意要保证每次递归的时候传递的数组长度应该相同，把握这点就容易很多了。
+
+**2019/7/5:**
+```
+173.  Binary Search Tree Iterator
+100. Same Tree
+101. Symmetric Tree
+951. Flip Equivalent Binary Trees
+889. Construct Binary Tree from Preorder and Postorder Traversal
+```
+ - 951 这题结合了100, 101. 妙啊。。
+ - [173](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/173.md), [100](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/100.md), [101](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/101.md), [951](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/951.md), [889](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/889.md)
