@@ -398,3 +398,12 @@ weekly contest 143唉 还是只有两道
 ```
  - 951 这题结合了100, 101. 妙啊。。
  - [173](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/173.md), [100](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/100.md), [101](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/101.md), [951](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/951.md), [889](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/889.md)
+
+ **2019/7/6:**
+ ```
+ 450. Delete Node in a BST
+ 145. Binary Tree Postorder Traversal
+ 102. Binary Tree Level Order Traversal
+ 987. Vertical Order Traversal of a Binary Tree
+ ```
+ - [450](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/450.md), [145](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/145.md), [102](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/102.md), [987](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/987.md)
