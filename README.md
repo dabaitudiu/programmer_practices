@@ -418,3 +418,11 @@ weekly contest 143唉 还是只有两道
 - [662](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/662.md)这题跟level-order traversal差不多，思路都是用queue横向迭代，差异就是多了个坐标，不断计算并更新即可。
 - [103](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/103.md)还是level-order traversal, 加的时候顺反序交替就行了。
 - [113](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/113.md) 回溯法，这个题注意满足sum条件后仍要删除tmp.get(n-1),因为helper调用了两次(left,right),right还会用到，所以tmp必须控制相同
+
+**2019/7/8:**
+```
+222. Count Complete Tree Nodes
+236. Lowest Common Ancestor of a Binary Tree
+99. Recover Binary Search Tree
+```
+- [222](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/222.md), [236](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/236.md), [99](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/99.md)
