@@ -426,3 +426,10 @@ weekly contest 143唉 还是只有两道
 99. Recover Binary Search Tree
 ```
 - [222](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/222.md), [236](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/236.md), [99](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/99.md)
+
+**2019/7/8:**
+```
+129. Sum Root to Leaf Numbers
+297. Serialize and Deserialize Binary Tree
+979. Distribute Coins in Binary Tree
+```
