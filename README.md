@@ -433,3 +433,4 @@ weekly contest 143唉 还是只有两道
 297. Serialize and Deserialize Binary Tree
 979. Distribute Coins in Binary Tree
 ```
+- [129](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/129.md), [297](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/297.md), [979](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/979.md)
