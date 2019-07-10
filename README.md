@@ -165,7 +165,7 @@ algorithm practices
 49. Group Anagrams    
 50. Pow(x, n)    
 ```
-- 49,50 没啥营养的两道题
+- [50](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/50.md) 乘方，一道经典递归
 
 **2019/5/20:**
 ```
@@ -434,3 +434,12 @@ weekly contest 143唉 还是只有两道
 979. Distribute Coins in Binary Tree
 ```
 - [129](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/129.md), [297](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/297.md), [979](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/979.md)
+
+**2019/7/9:**
+```
+507. Perfect Number
+50. Pow(x,n) - review
+704. Binary Search
+475. Heaters
+```
+- [507](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/507.md), [50](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/50.md), [704](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/704.md), [475](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/475.md)
