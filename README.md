@@ -443,3 +443,17 @@ weekly contest 143唉 还是只有两道
 475. Heaters
 ```
 - [507](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/507.md), [50](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/50.md), [704](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/704.md), [475](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/475.md)
+
+**2019/7/10:**
+```
+215. Kth Largest Element in an Array
+973. K Closest Points to Origin
+1046. Last Stone Weight
+```
+- [215](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/215.md), [973](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/973.md), [1046](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/1046.md)
+
+**2019/7/11:**
+```
+969. Pancake Sorting
+```
+- [969](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/969.md)
