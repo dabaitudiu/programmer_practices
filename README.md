@@ -457,3 +457,22 @@ weekly contest 143唉 还是只有两道
 969. Pancake Sorting
 ```
 - [969](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/969.md)
+
+**2019/7/12:**
+```
+324. Wiggle Sort II
+```
+**2019/7/13:**
+- Biweekly Contest 4, 最后一题被HARD标签唬住了，难受。
+
+**2019/7/14:**
+```
+15. 3 Sum
+324. Wiggle Sort II
+162. Find Peak Element
+1095. Find in Mountain Array
+```
+- [15](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/15.md) 排序后，以第一个首字母为基准，负数才开始挑，否则pass, 两指针向中间移动
+- [324](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/324.md) zigzag数组排序. 先找中位数，小于中位数的从高往低偶数位排列，大于中位数的从低往高奇数位排列。
+- [162](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/162.md) 只需要比较和后一个元素的大小即可。 3种情况: 全递增，全递减，在peak。 二分法: 找index条件用(l < r), return index 用(l <= r). 二分法直接返回index.
+- [1095](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/1095.md) 先找peak， 前半部分则为递增序列，后半部分为递减序列，用两次二分。
