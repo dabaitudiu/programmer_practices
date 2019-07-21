@@ -491,3 +491,12 @@ weekly contest 143唉 还是只有两道
 503. Next Greater Element II
 ```
 - [264](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/264.md), [313](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/313.md), [496](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/496.md), [503](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/503.md)
+
+**2019/7/21:**
+```
+16. 3Sum Closest - Review
+31. Next tPermutation - Review
+239. Sliding Window Maximum
+```
+- weekly 146 惨败。
+- 为了做480题先做295， 为了做295先做293...
