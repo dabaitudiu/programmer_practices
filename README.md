@@ -500,3 +500,9 @@ weekly contest 143唉 还是只有两道
 ```
 - weekly 146 惨败。
 - 为了做480题先做295， 为了做295先做293...
+
+**2019/7/22:**
+```
+295. Find Median from Data Stream
+480. Sliding Window Median
+```
