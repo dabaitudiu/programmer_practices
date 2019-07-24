@@ -500,9 +500,12 @@ weekly contest 143唉 还是只有两道
 ```
 - weekly 146 惨败。
 - 为了做480题先做295， 为了做295先做293...
+- [16](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/16.md), [31](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/31.md), [239](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/239.md)
 
 **2019/7/22:**
 ```
 295. Find Median from Data Stream
 480. Sliding Window Median
+871. Minimum Number of Refueling Stops
 ```
+- [295](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/295.md), [480](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/480.md), [871](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/871.md)
