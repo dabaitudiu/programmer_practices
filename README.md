@@ -509,3 +509,10 @@ weekly contest 143唉 还是只有两道
 871. Minimum Number of Refueling Stops
 ```
 - [295](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/295.md), [480](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/480.md), [871](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/871.md)
+
+**2019/7/25:**
+```
+875. Koko Eating Bananas
+1011. Capacity To Ship Packages Within D Days
+778. Swim in Rising Water
+```
