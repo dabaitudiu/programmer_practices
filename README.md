@@ -516,3 +516,8 @@ weekly contest 143唉 还是只有两道
 1011. Capacity To Ship Packages Within D Days
 778. Swim in Rising Water
 ```
+
+**2019/7/26:**
+```
+668. Kth Smallest Number in Multiplication Table
+```
