@@ -516,8 +516,29 @@ weekly contest 143唉 还是只有两道
 1011. Capacity To Ship Packages Within D Days
 778. Swim in Rising Water
 ```
+- [875](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/875.md),[1011](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/1011.md),[778](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/778.md)
 
 **2019/7/26:**
 ```
 668. Kth Smallest Number in Multiplication Table
 ```
+- [668](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/668.md)
+
+**2019/7/28:**
+```
+Weekly Contest 147
+```
+
+**2019/7/29:**
+```
+419. Battleships in a Board
+547. Friend Circles
+```
+- [419](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/419.md), [547](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/547.md)
+
+**2019/8/12:**
+```
+841.Keys and Rooms
+200. Number of Islands
+```
+- [841](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/841.md), [200](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/200.md)
