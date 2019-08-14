@@ -542,3 +542,10 @@ Weekly Contest 147
 200. Number of Islands
 ```
 - [841](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/841.md), [200](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/200.md)
+
+**2019/8/14:**
+```
+529.Minesweeper
+79. Word Search (Review)
+994. Rotting Oranges
+```
