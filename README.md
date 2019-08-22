@@ -549,7 +549,19 @@ Weekly Contest 147
 79. Word Search (Review)
 994. Rotting Oranges
 ```
-**2019/8/14:**
+**2019/8/15:**
 ```
 1091. Shortest Path in Binary Matrix
 ```
+
+**2019/8/16:**
+```
+785. Is Graph Bipartite?
+```
+
+**2019/8/22:**
+```
+127. Word Ladder
+990. Satisfiability of Equality Equations
+```
+- [127](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/127.md), [990](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/990.md)
