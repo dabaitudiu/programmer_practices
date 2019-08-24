@@ -565,3 +565,11 @@ Weekly Contest 147
 990. Satisfiability of Equality Equations
 ```
 - [127](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/127.md), [990](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/990.md)
+
+**2019/8/22:**
+- S4E7 Linked List II (Round 2)
+```
+19,206,234. Reiview
+1054. Distant Barcodes
+```
+- [S4E7](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/S4E7.md), [1054](https://github.com/dabaitudiu/programmer_practices/blob/master/LeetCode/1054.md)
